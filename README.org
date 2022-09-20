@@ -1,0 +1,7 @@
+* GAS 外部ライブラリ DB
+
+** ライブラリ集
+
+- [[https://monoblog.jp/archives/6019][*オススメ外部ライブラリ*]]
+- [[https://auto-worker.com/blog/?p=2460][HTML parse]]
+- [[https://note.com/taraco123/n/n9041898a069e][簡易文字列取得]]
