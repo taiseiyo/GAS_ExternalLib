@@ -1,7 +1,10 @@
 #+STARTUP: indent
 * GAS 外部ライブラリ DB
-
 ** ライブラリ集
 - *[[https://monoblog.jp/archives/6019][オススメ外部ライブラリ]]*
 - [[https://auto-worker.com/blog/?p=2460][HTML parse]]
 - [[https://note.com/taraco123/n/n9041898a069e][簡易文字列取得]]
+
+** UrlFetchApp 使いかた
+- [[https://qiita.com/mightysosuke/items/39fd5454b28143d3320a][curl 変換の際の使い方]]
+- [[https://dev.classmethod.jp/articles/google-apps-script-request/][UrlFetchApp のoptionsの使い方]]
